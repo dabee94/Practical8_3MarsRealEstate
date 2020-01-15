@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
     /**
      * Our MainActivity is only responsible for setting the content view that contains the
-     * Navigation Host. hello
+     * Navigation Host. hello hi
      */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
